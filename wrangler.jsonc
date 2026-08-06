@@ -1,0 +1,1 @@
+{ "$schema": "node_modules/wrangler/config-schema.json", "name": "jeandoe-portfolio", "pages_build_output_dir": "." }
